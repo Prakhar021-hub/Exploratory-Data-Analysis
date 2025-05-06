@@ -23,9 +23,4 @@ Each subdirectory in this repository corresponds to a separate EDA project. Ever
   - Explores the relationship between sleep quality, stress levels, and productivity across individuals.
   - Highlights correlations and patterns using visualizations and statistical summaries to draw meaningful insights
 
-## Getting Started
 
-1. *Clone the repository*
-   ```bash
-   git clone https://github.com/your-username/eda-projects.git
-   cd eda-projects
