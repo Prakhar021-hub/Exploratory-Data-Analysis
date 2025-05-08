@@ -23,4 +23,6 @@ Each subdirectory in this repository corresponds to a separate EDA project. Ever
   - Explores the relationship between sleep quality, stress levels, and productivity across individuals.
   - Highlights correlations and patterns using visualizations and statistical summaries to draw meaningful insights
 
-
+- *[Exploratory Data Analysis on Flight Price Dataset]* 
+   - uncovering patterns in airlines, routes, and pricing behavior.
+   - Visual insights and feature engineering to support airfare prediction and business decision-making.
