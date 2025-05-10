@@ -23,6 +23,12 @@ Each subdirectory in this repository corresponds to a separate EDA project. Ever
   - Explores the relationship between sleep quality, stress levels, and productivity across individuals.
   - Highlights correlations and patterns using visualizations and statistical summaries to draw meaningful insights
 
-- *[Exploratory Data Analysis on Flight Price Dataset]* 
+- *[project 4: Exploratory Data Analysis on Flight Price Dataset]* 
    - uncovering patterns in airlines, routes, and pricing behavior.
    - Visual insights and feature engineering to support airfare prediction and business decision-making.
+
+- *[project 5: Exploratory Data Analysis on Student performance dataset]*
+   - Exploratory Data Analysis (EDA) performed on the Student Performance dataset to uncover insights into academic outcomes based on factors like gender, 
+     parental education, and test preparation.
+   - Includes visualizations and statistical summaries to identify patterns and correlations affecting student achievement.
+    
