@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) Projects
+#  Exploratory Data Analysis (EDA) Projects
 
 Welcome to the *EDA Projects* repository! This collection includes a variety of exploratory data analysis (EDA) notebooks focused on uncovering insights, identifying patterns, and preparing datasets for machine learning or statistical modeling.
 
